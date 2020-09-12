@@ -1,3 +1,1 @@
 # SudokuML
-# SudokuSolution
-# SudokuSolution
